@@ -68,6 +68,13 @@ Su aplicación debe ser de página única, es decir que sólo habrá un archivo 
 
 - Note que la respuesta del servidor está en formato JSON, ¿Habrá alguna forma de verla directamente?
 
+Se puede hacer la vista directa de los datos enviados por json a través de un comando que permita la conversión de estos en cadenas de texto como tal <br>
+![image](https://user-images.githubusercontent.com/91394363/168498241-d5bd0ac7-ad31-48d4-9636-5b5aeca7c57e.png) <br>
+ 
+A través del cual si accedemos a dicho puerto no aparecerán los datos. <br>
+![image](https://user-images.githubusercontent.com/91394363/168498272-703ad2be-8778-411a-9657-c668aeea3f6d.png) <br>
+
+
 ## RETROALIMENTACION GENERAL
 
 
