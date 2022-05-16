@@ -61,10 +61,12 @@ Su aplicación debe ser de página única, es decir que sólo habrá un archivo 
 
 ## SOLUCION DEL CUESTIONARIO
 - En el Ejemplo "Hola Mundo" con NodeJS. ¿Qué pasó con la línea: "Content type ….."?
+
 Se está ignorando ya que Content type dice al cliente que tipo de contenido será retornado por lo cual no hay error de compilación 
 <td><img src="img/1.png" alt=" " style="width:100%; height:auto"/></td>
 
 - En los ejercicios. ¿En qué lugar debería estar el archivo poema.txt?
+
  Debería estar en un directorio (priv) con el cual leerá ese archivo al momento de usar la url(/recitar) a través de get 
 - ¿Entiende la expresión regular en el código y se da cuenta de para qué es útil?
 
