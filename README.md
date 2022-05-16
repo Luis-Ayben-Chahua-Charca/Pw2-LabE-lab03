@@ -66,6 +66,8 @@ Su aplicación debe ser de página única, es decir que sólo habrá un archivo 
 
 - ¿Entiende la expresión regular en el código y se da cuenta de para qué es útil?
 
+Si, la expresión regular, sirve como si fuese un filtro que nos permite discernir entre los datos útiles e inútiles por medio de la creación de patrones establecidos en base a características y variables establecidas por nosotros.<br>
+
 - Note que la respuesta del servidor está en formato JSON, ¿Habrá alguna forma de verla directamente?
 
 Se puede hacer la vista directa de los datos enviados por json a través de un comando que permita la conversión de estos en cadenas de texto como tal <br>
